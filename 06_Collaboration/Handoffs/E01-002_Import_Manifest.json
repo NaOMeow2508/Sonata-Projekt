@@ -1,0 +1,1755 @@
+{
+  "Task": "E01-002",
+  "ImportedAt": "2026-11-11T12:50:29+01:00",
+  "Project": "C:\\Users\\MaNin\\OneDrive\\OneDrive - Personal\\学术文件夹\\游戏设计\\融合项目游戏设计\\小小世界（暂定）.scriv",
+  "Entry": "C:\\Users\\MaNin\\OneDrive\\OneDrive - Personal\\学术文件夹\\游戏设计\\融合项目游戏设计\\小小世界（暂定）.scriv\\小小世界（暂定）.scrivx",
+  "EntrySHA256": "5E6E60B15E1EA6920627D962A7E4254B4AE549F695AE93F6F8FE49B11AAF4775",
+  "OldEntryPresent": false,
+  "Conversion": "WPF block/list extraction; WinForms independent text comparison; reversible Markdown escaping; source style markers removed",
+  "Documents": [
+    {
+      "Title": "第一季核心设定",
+      "State": "DRAFT",
+      "SourcePath": "C:\\Users\\MaNin\\OneDrive\\OneDrive - Personal\\学术文件夹\\游戏设计\\融合项目游戏设计\\小小世界（暂定）.scriv\\Files\\Data\\C843DDEA-12B3-4913-92B0-B7706207469A\\content.rtf",
+      "UUID": "C843DDEA-12B3-4913-92B0-B7706207469A",
+      "SourceSHA256": "DD6F2D51F58D29A2F1AC6EBCB3BCB00DC38E81166F6EC30F5F8BB1305D766613",
+      "ImportedAt": "2026-11-11T12:50:29+01:00",
+      "Output": "03_Visual_Assets/Sonata/Season01_Story_Bible_DRAFT.md",
+      "OutputSHA256": "D85EF1519F9859D90073CDEC3BFD2EC77CB75CC15CF285541F6038145F482BF3",
+      "BodySHA256": "BF679C701A24EAD27886B2ED9E9425031F7806C1BBC42A1AFAD6A75537E2E682",
+      "ParagraphCount": 69,
+      "Paragraphs": [
+        {
+          "TextSHA256": "CBA26C78398209C52263AE6B8410ABCF0893A6D59B3921133BF41A5D79A8BA88",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F8F007BA0A3208711F65C0B4CB3D7B98E2605CCC32824F7CAD32A4515B7DCB66",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6615D6F154D216D3654DB6A8817951CE658C73A5C323E6383A8C3461DD65A5DB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "01536FECD9535051672B01CAB06AAE1B842517C7122D46F971DD178AF6AF3E7D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "17A55EAC730ACFBF6DFA052CAF3D7B91F788FB35B10F5DB64D762B4398D3B576",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F539AEDF3D52000E7324E3E506E8A8D5D59C8CB51F6374D1FA77BFBCC2140D1F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "36A9E7F1C95B82FFB99743E0C5C4CE95D83C9A430AAC59F84EF3CBFAB6145068",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6FD09C35A8605BB6349064884DA3804B4F759627FD6875316E2B05A70F039335",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E43C23F3465D9ABFC85B02ED4D6BC16A8030AEF9C94100EEE547D40E07159595",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "EDFC07D15A56267E733B500E6025FB10C962CB728373407235AB6AC0DF42FA96",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7447E12C8FDE7F7C992F42A92D562A1EC90FFE272098696273E538B22F670857",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "691D8C786ADC2CDBAE1C1FDAC9789A0672B5A3ED39880630C462CCB57F66742E",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "289DBDB895F1EFF8CC2E0317A25F3608B7432E2F4AE9B182B273F0FF073FA205",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9DB384C6C1595351AA5D059B5DD5BAE4E23F34C64C050AF8F94D8077CB475527",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "482E06A2122BB636E776C5C88863B474AEAF4CDE253D286AD509CA580C136C3A",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "4122D742BA1DAD37B063F0307EA757A86EE7A31D290510965CB4963340542FB0",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5EDC7BA6535C2B1ED665718489F1441C64A08CB8FD180D51934AACF610938170",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "50C63DFA3C785F4A5AB9EBF606FAA70D8D762E7E7E576FA599AA4E2CA112F40C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "97FCEFD268D5A152E83F202E83E1D64BC07A21197402883388C88AE58C768CF6",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "07D0F494312E0FC9CBA37F9B2FC5EEC938C0280B470FA11D7054EAB6252A3EBE",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "21D2A55E2494FE297CC4158BBAA088E554EA206A194F2B72106E3F59FA87C7FB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5E6FFEC161A00EAF5CE14BFD98CFF4D972B7FCF58A14B41476472EAE1A245207",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "AA6E770298C3EA878B04ED2B68054F2DC188364A65BCBD621F2E160EA1EC3986",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9D1BE16CB45253A0B7F264E071E2D5E49AD458374E597B31670FE0BE385D226C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6F36AB2F58D67E1988C78B974D2D9B596E4AD0E82A7D9AD12967D5885D4DE62C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5F35323BE24DEEEC8F779C394585C877A912BF8A88DD10DE7B8EBF2E0F69C43E",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6E646710239C880FB30852A9652DAFE5EF8694D5767462C830B8887A2EEA858E",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9725F2AF4841AF8BA51D32C1B3BE7F361BBB305877C1076B78A8A61B63495449",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "2E94917B6E63BF16A84E74981DD35180A57F33EB6A79586F2BC4A333A35B281C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "A0C722FD0CC1CD80655ABBB2BCB761834D4B2637B265A24D0A1F8289A3A22110",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "2B566EEEF639845B9E5DF70DC90682010BCB5D68D4C2F1A6F8EA4F3ADED81B70",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "2188156E2EF79AE40DA1B5CA61C0850FB5466D3CA65576052C16D5366526F1A7",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "AC788B89A4FE6EC52702F56CF8139A451D0772E60FDB0989FD9EBD2D56F04697",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E15A5EC9D9593E450F41212E038B612E47D0400FA029C31037D54D649D1C158F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "598906FD5F1D634FFFE713A2B4E4AA29356B02A74E4413AD3F47285710B29015",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "EC8F2EBFE2F1EE685549BB4A29F491ADB775BF35E0F47EB319577720AE5B0C6F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7BCB73A3426470720EDF8C31A64CC918C605B23BD09BC432F427985FFD964CF9",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6689A428F0405F9E5FEEEECA173AC212E6C79AC2CF2756863E53ABE91372F99A",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "38CB7D7D18DD1C2A7C41A1E87F918F4197594E1515037B16D957230311C33E84",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "1B4E84B0708452163FBCC305748C3D82C3CA085FF7D4FFAFD4D0744D3E8AA61D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5BAFC26FBC71302FCC662C5EEBC3995B464330F04E6A7F1677778A1A3B236A49",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "EA3179AD8CBF12AD5BB42BC587E92E704050ECEEAF9B10ACC69D4EFAD8F671AE",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E2641EC9E25593C6387AE15EE159CB2CF72568057DD1A4BFF1B36D293B4CBCDD",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "D6728B928603DD4388A7541F403D848B2A7DFA9B4BB9D379913BC207D5C30044",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "A44E2CD59A2C4668019D9AC6495BB32448EFDB30FF68268402667AC623D0340C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "691AA9A114CE257916D2F88C05B189E4E00377CB48D12B7392040ABDB6AA6468",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "26DAD6BE50F9059B9A8D6859854D5C4DFDAB0B4343199BC32B477AD73A14F7B9",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "8728B07A9D0A2B8DF4C1872ED580E21B8241975E2E42CF3316C915BFFA4F352F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "614390D4A208246C96FF003493C3129C180912C0D92984193AA7F1E5167FB65D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F8A70342E464386B12175BB4BFC67E3EE2AEFE5B7EF123349E3104EF895F2378",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E14304D35A494B67B3D91B0B21BD6BA70DE9CC3637210C9C1EC5D3AB4CDCF40A",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "C109955D1DE12A1E162BAA3102F33021E3691416CBB777D6F91D1843BDC4A5BB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E927D5F302D9B29453B887C7B2709FDC4057D2E335810925C89C4F2C99B62AE7",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "1675FBB5B39C8142B8A7B0A4432A802D720477A76C9CAE18D8604108728815B1",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "B62EF67D3529D6F1C5DF43F1F155FED7DF062D79DF3AB9EB939ABE8D0FB4EF49",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        }
+      ],
+      "ListItems": 0,
+      "ListGroups": 0,
+      "EmbeddedImagesNotExtracted": 1,
+      "Scenes": 0,
+      "PromptBlocks": 0,
+      "IndependentParserCheck": "PASS",
+      "MarkdownRoundtrip": "PASS"
+    },
+    {
+      "Title": "第一集六场剧本",
+      "State": "DRAFT",
+      "SourcePath": "C:\\Users\\MaNin\\OneDrive\\OneDrive - Personal\\学术文件夹\\游戏设计\\融合项目游戏设计\\小小世界（暂定）.scriv\\Files\\Data\\1938150C-AE2B-449D-877D-7562C3A19ED3\\content.rtf",
+      "UUID": "1938150C-AE2B-449D-877D-7562C3A19ED3",
+      "SourceSHA256": "68D21147F2DBC1A904E838FCE0C49E7A9B8EA09E0A492E7AB9AFEE65739A51D3",
+      "ImportedAt": "2026-11-11T12:50:29+01:00",
+      "Output": "02_Episodes/E01_Waste_Sorting/Script/E01_Dialogue_DE_ZH_DRAFT.md",
+      "OutputSHA256": "45C8157E0D0497891F97946CFA93BC23450A523259D4641DC4AF9DA395C78E57",
+      "BodySHA256": "0DA8D0E94C66243D0770D9B74216295B7CC2826BC97692FA6D3D08D2F8A9C05A",
+      "ParagraphCount": 158,
+      "Paragraphs": [
+        {
+          "TextSHA256": "B09DDF50E9529DD0ABD087703D5E41521E4DBA1F8782DE809206E8F9B104C9CF",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "A7EA4CF0DA610D2EA88B1821B03580550F97C24376F545F645F47F22608B28D0",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "152C274971217118766D42EAE2F2EF292FA5518DE8BBBC4146A5FE368C54BDED",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9ED5EF36A87D8603ACFCD95F2ED354CC7E2898EF7E851769FCD4499B30A89A35",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "36A9E7F1C95B82FFB99743E0C5C4CE95D83C9A430AAC59F84EF3CBFAB6145068",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "731E1AF89A7AD4143BFE3A785B9090238F609050B6C891CB6E7BB74C1B7C075E",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "16527115BB9069FC7498A81F6DEA783FBF13BD41010062AEAF90018346FCD2BD",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "1E69E84371C21F30369E5A71D8D82AEEE278576FFFC30F2ECBA3B826EDB03FEB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6B88619F4BB38EE92DF694B3439B9DA1382D9B83CBC1948257E349587EAA41AC",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "B4D5E588520D35DAF0CBBFC2EE24DC1DFCE817F4204570DA1E160838580891A3",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7318B62543AA425C47B5A4CB5D223B48D1550B10498F493AD9701320DE85438C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "3CD11D736C00A4461F84762AB3B20BC9BE46DC58AFE20460AB5F85666EF949ED",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "BB148709B4A98C16724B11878FBECC25093D7B7942E0066F407EF0A4CEA2D73D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9ADAE69DF8FBDB0C8C46F5CF60B5AAFF7D95F5B10B90FE0AE98C352A789E1A03",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "1FF53FB1EC66B8E178281EF08138FB9F53C2C133094D662012FAF8E871BB2AAF",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "FD3A6E2B975CAA31F44A1974396014B25F9217E26E43F9E800BFF3AF61D399EF",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "B9FBC07F0F692F944E61D5614C6FECEC7F0414D4BDA5E46BBCBB67EF1E8ACB50",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "24A8CA9EC15322C8C4906AC561FA35697C5497387F1B98925EFED747C07379FF",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "DECCD63C6DB3F8108FB39440C161416133657F0E814AE7953FA14AB0E48700E4",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6DAA07EF94779BD2ECFD9FDA6EAF43A48B8249E45D2E3F29AD0A9E9446F58B98",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5AE6DAE808162B0C688C1F566981F7376816A62B5A90AF94369B8096EE7BCA45",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "21C0CB9711AB8079D87B46A7D9980AC789D5E9798815625C16DBDF107A7ABD10",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7028323661A44C4261456823CD58090F1633189CBC61E40CFC133C847543668D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6865E90F6D524D8F7BC23508822AE476EEAC6056A5909C0EEEAA4D7F16DC9FA7",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "0B55C08A16DD519A8BD08055F7A1337382508240FFCED93B0515014FD5842B8E",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E11684A6ADB15DB425E70F4CAABF1E29D3988FD97D12A58930572BBB645A701B",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5DE5F22D3BCB05A5C029556177C44B06D10D90CE8AE9C6979A1DFA76BD03762D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "24141F63D75033D03CC562E6DDE4EE6BC0E5BCA10474D7B0E5E552384BDD365C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F2077B1080C5203BAF3E4D94CA1398438B6FF17F80AF6EB4729B5F835D27AE28",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "34C4FB44BBFED0F89C13C076D391BE2EDFE34FD098A066B32987DE0B941E2828",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "99079DA72E516CD4FA126275308DCFB703B3EF760DA707CD296011C0626EF902",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "4415A1CBC57B3D224B377E6120C67AE816B19F70C7F85D7C76D8A3934C13B0CB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "4156C4B9CF1743848D19EE24433E4F0439CF80E0A6FD90294C327C9B9E645101",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "402F47DB0A53176FAF314AA19DEDAF6B28F8F8CB1694CB7AA3B3DA76CD9487B7",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7F07E1B4870BAF7F34214657902DCDCABAC518C3C48258941660008BD4D55B59",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6F5A7476141E1C7C0A7466203EA4D1A597022EAB403D1F7F7BC58F4E87181384",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "30D757D340351037A881314590CD95D3924B6683250444C52780A1C4E733A188",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "43D2915E857F30E609618FADFA1AACF3D20AF32702C9AD7778D0A5427DF79A6D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "D16E4C70DBAB39420CA473961F29897784D327F01B31BA1B52DD1D92E416E479",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "D9FA9A7CB03A429FF0539ECA0605359BF380743B9837033CA49D624D21E9A812",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7D1238FF3AFC540DCB93BB40D17822FCCC862D915F73EF9FE0280755BED855BE",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "931B844E41C7E42477F8EFC077FC17353E5C017A603A87CA3A348E3D4FC3A4AC",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "B1E45E857E49A3683C2D3AE6E4BE1E0C1B95A0E7E3C54B502581A42DC1A9230B",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9D12298A49B863E1991515E94C8B9059609C511A63B783E77A37C7136531B2AD",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "18CD3237511ED783ED268AFE4CEC0963E0A9BA85DE0359B2392094C16BEE3186",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "B50B92B4914538A5883156EC89C98B693DE2275CEE672F0DFE5C571976C8038B",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7233B4C98BBAAC9066E4BFD5334938807A60F801B512DCC4FE063BAAF8BDD974",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E072B321F772C0E3BCAF97BF749A10B512FD89C055C4A0EA57C9EF3A7FD1B49A",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "EF6418896596919843759B18802B2E49F75B81B235262304E566655C396DD823",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F385A31066085E833F891F42EAD7B9AA4C69B60ABBB1F8206448EFF136A30719",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "1574586D6784EEE2374A684C07DA020A0AFCDDAF9835E9CB748DA2FF85A34512",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "BE731AFFEE33AA008396FD129201887BBBE2B897D2B1741C5CC5E7EC7ECBBE78",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "54CE91B53DC22BE35FDC2CB5C7E5EA1862615550C285A9B3579F0FB788986E34",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "01EABACFC143DB83B91F7DC3BA70C19C5ECA9F8ABE2093CAB35B28F06F8CAF24",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E8D3B2DD8034F9257C6BBA6FFB7C7DBC77215913FD37C2FCB20691877F532825",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "3A4762355224AE3364AF190E2AC94AB643A8298983B06BD422447367437D9AED",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F00D1AFC1D2DA83EFA797E9EE10ACF41575BAE6E4B4E37AB01DF3FCD2AF876B2",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7414F1A8CB50264AD8114E0B76B7A686E02C9FE25C11EDB8E1F02600F595C82A",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "B610F2E3E2CEFDCF08302B56D69CF087E431C4E69CFD0936F986D5B34162BD74",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "598F0239AD5D17C7C1D78B768A7A21FCDA3369C91FC7E1D3BA479E7844AB5C99",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6026075FCEF51EDEA70400DB466F64ABD846DB430F6D7AD3DC72C6A2BF1D142E",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "4FD0832A09002B6CF1668CDC829570AF9F99444F40CB9B81B5122D27974473C5",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "AFCA5D4E69B2FA058A3791CE7C589C4D07D7E8B39A3F4090C6882DF1E40D85B3",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6E5751C32F8AE090493A7BFEF634C2ECCA4A7835D69D5C6B1C1F61DCB3F3E228",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6F35E6475EA8A83911F591E29F792B8A557075D05D369A1E13B9751C7E13251C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "A78A773E1B46EF4A830E39F7EC55EAEDA8655DABCEBA3A61D0C4130F5B4862E9",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9DE907EEF701A9FCC8F3BF29685A9FC87F01204ACAE4BD0F72FB4634725ECA60",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "AA4AFFF6E40235401721830D4DBAC34C841A4DEFF163E7D9EBE3B4E7F1B931AD",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "0D72749811033A0A0E77F5112DC97D1B654A0127C61A72D45020EA076A14A99F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6CC69518596964298D2C3100BFB56B6CBC8CDF8868F64F90A5FD4830E2E49333",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "62056B87286813BC19DDCDD107325DA8871C2759A368001C7A9CCF0F253F859C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "96740AB4965000AAFBD9A10625FD5C3426936555796767DAA8F1B21567DC3A87",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "318AA6CE736D30268276DE1BE32569100A85B897879B4906A64AA5F10479E595",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "78A75F3D0A58F4A2E27A160FBA96DDADFD16BFFAE9E6D4EB45D956D4250D84B1",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "07623905F4687DB571D088EC9D97F67285EFEE03F31D7CFCC9165D4FA069F38B",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "A463A9BE88FC5D018B040CB93E829A35EE5251E981C86866308A326DBD58F234",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "DEFCA18CD9086E84C274C97F26C3C53B468E84FECFBD1EE7FFE0E945D3B1C44F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "60966AD8202CA6729D39B11F0A4FF42DBC9809C3E75CF244C0D8498C5BF51046",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "582222FAD91BACC66A94A64A675E95647EC52A28DE5F41409065B3341F8D340F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "0A05ACBA811F96DB71CBB539A37CE47AC0DE33EE34C52B5BD68C013B727D3A0D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "BE592B207D228E9FBB7038D843745ED173BA8B149A9CF07F230085821C31E278",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "1EC5037900728A2C7B71A343333528458DBF0F053150C03FE24F2153E315A84C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E0E416C9E163413FA3DA1D4F9CEBB037819E0E84A89F1111491509CA6010EE7D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "97A396590779D2FDC665279005001B62D9F7177CA1386A3B038BFB35C32FED9B",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "30B5AD105A989216D06A6D3A11108D698B138E0CB764985996948627FBFBA263",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "CFB2ACECAFC4A21688DB122B35E2B2BC2907FFC8484F3D8F6BE0259D692FC551",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "DDD83D49638AA8FFFC5DCA1235A8B47C89B48F704E196D13E1592A7C52374B4A",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "02CCA677C871EE7BA2E07267C23BA723D9CD214AFC4CDE5E23D5A8142E94F741",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "EBF1BA9415403FD4862ED735F687ED31FA56D9EF5B5B5130D7911FF045BFA86F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "42106217DEFFDAD8D10C12C96784F3BFA994153D65A089EBB7CDC60F449FCB65",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "86A3499CDF844EAFAE6B0B06397BD689D2F054FC6605E644AB7827EBF4B491D5",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "0390D0D563DFD372F689F410D5C882C7C27C295A1342FDADF059F4B871C5D2BC",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "C7A3FAE9235C0BAF9A17DE44BC00B4F30DD2AC58502DC2555CDA687F21022B8F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "342130FF1541FF40C674B15CB386BA31CC8A01E275DA635E7916BE553E8C2C2C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "CC7142178FF2403B65E62D6BCEAA8FF58F95BACF4B544499D9B6228764B77F8D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "1B84EC6263F2BB61310F38D9AF868C3A24B69DE7C29ABC9916C94B2E5F1CD1BD",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "8B18CD6245D0B9A30F846118928FCE9B9B31323D63D39F1870E92C3E18E14F2F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "BCFF50A2870BB20043450409187D02CE24B2B57C64395F23B3A317852D5F8563",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "35AD9E72E4EDABDF1011D6813C1F2CFC638ADD011B007BF92705959719EDADB2",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5AE895970C091C322A1BD682CAD47D1FA7C3CF987AE8846F8BA73B0E2BDA181C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "CC000C8F131226FE4DF49C0A24532A08094A26298C213D93130E229F5CB8FB90",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "68576F613F1377730D458753942253737F9CA764FCE0D1BEAA08C13001C943B2",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "2F3FB12FE6A74A2D478D85C19B587E95B44AC3D5F15C1056BCAD28C22C6535AA",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "C5230660CB99DB4857FB1F8C63D1FF7958F92F03E8E8C2464230725975CBB551",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "C5824872A0A33527C27C1A068505A290FC6250B16328DFAD2B83179A3E6A3B00",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "EC6304985A50D0A604063714E368AE5FA449802E3EB452EFE02BCFAE15ADC705",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "A125FBCFF592003C1CDF24888C59E16347795BE7D33EE80A1D536C2E6E551146",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "903E288AAE25F37555FC943B2CA40145E0B33D1B0F7710603A5A4DA76442A2AF",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3128FA667A058A7E66663F026F7E16FD3828CE5A63EC494B404D203A5AA7601",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "056901B2A78CEA0BC482FF570D978A70FD251F376892AEE0C619F2072323171B",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3D4C71697DB71B3F16301DB0CF562F3EC84153B201F3ED3C532690EF5F15B31",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "BB3881F8311EF42680A65F47262EB2DB4F65A8503C2767123A6FC482E4B3370F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "D3224C9748E1D94EB95BBC6FFB1FDE5066C0C155101379FEFB1E937841118FF0",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "B872D06FAED48C0DEBDBB4B93737342FCCE5CDC8A397077178D6D2970BA7E264",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "87F5DC1D874C3B88961E91A2BC86EDD8C65C4EFC8F13F95350F9429EB2C4496F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "4FDFA946DCB733D004F31173789906FDBC03D59E4DE4758C6660BE724B7A3C22",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5038EB86A338323349576B204D019B0EA6945B6ACDEF67DE0C8611E4DFF453A0",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "DD3A26E0D73DAB260F6ED4606C78A06BB9B3BD74E5B5E7D34D99C4B406067AD8",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "3FB206119E3390B4D3D923B55A7B72BF2FC1466068AAD46C03A3157B949AF724",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "D08A2081B62AAABF774A137A95D176F3F8FF8F702BD2A792182039D141911993",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "A8FB6D22DD0C294A3FFA6F14EEE618C7BF73540B88096129B761864A844ABE83",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "172BB3337A32C707905EAA07A8C75ABD1B55D47C556C193913535875C95C7F5F",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F1A4956D33E1E7C1D8522BB3204B08F3DBEEE7F3B84CE998D14D2662FDEFCC7B",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9AD47CBA4BA7E886E23DDBD1A4FBFFD3B5DA20C4B740EF3DD51B4F78A06C91D6",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "4432AA1D27B11B9014B18F8B4870302EC85E583E1F84573124D1045AF0FA7B42",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "37866620D71341A640FB3D986510A27578C9AC7E1D6E9594E5D6EEA29C79AB7D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5A0F95992334891DA4246011D82B48C526C4EDFE3A1380F8AB16EB3A01610E11",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "C9839EB9B2A4CFD24096257F990369955679DE3BD9DE704091BE039A771D22AF",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9F69D10FB5E30D33AFDC4BADFB2D0E4DA3715BD3B2E32211D31F2819FE4DA9F3",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6E4C79CEDF28434A67C6AA532A095E27486CBCCA5BA84A1854B812A30E3D6236",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F8AFA4393BF02AB42D23A562A317F82694CFCF56EC77177EE77B14E6E783ECFA",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "8C6A96B74C0A84543E0DB927E12B75C9EB64F61A9CF29FF9BDF015C753AAC8BB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "917CE2BC92EB48A94F8A1F082885BB964D9F9CFAC4BA1F424776A19EE79EBF02",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "03D0BFF10B35A86B6812D16AD98B916CE1D29912DE47C2D4747AA837461710C7",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "07D2EEDCF6EF6094066192957D722354C7B34E611974596AE8D4E6EBD9349121",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "FD77B8D987D005043E293AFA52C4BFF7620864B943683328BEACCBEDD0C5FBF4",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "DB4A5B510B3A332D1EB18AE393FE838E833C5F4A6E9F155CBDD6747EB6742043",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "BB746A42AFE0BF415BBEB1AFADF6863A83AD8ADA24881E6565DAF9D791D4385E",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5350E137A504B30ABC226E2A019855DC4C299ABB3E2FC3B56CA4D633C09D8BCB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "292328F2DBCF9762397E34253EC65EB405742005857C84FF4F220CEA129E98F3",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "BF13DC81F63430FE3EF2E93D8F27E8397EEAA9F376307AA07AAD3580FACF84A8",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "043FD44CB386649ED0CDA3E54A49CF22E7DEB5692435850CC54E08E2FF306FD2",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "344835253BF90CD86B55B082AAD2BE1427D3CDEABD95C3FB1B34F5C70151618D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "64F50C1E2639D8EF5019349FA557AE6FC0FCA3C777492715518FCF645FBE10EB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7D464E2A00BBB65269ED480C7267AE79D7866A8AE8732FE3E5E36EAC1F61DDD0",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "23C63B617818D62095487A5CDDF910948DC0C2733A2FF00B2ECD40425CBE5706",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "DA6865C6F653A0DEF7D9138021C9B7AE6204387378D41AFBCB0424B188BF8878",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "ECEBBAF539AFA4F80C8E1039CDF7A71983FD2E65662BA85C049E2B495B2AFF1C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "4FF0FDA2CE6BAE6636D09745E21157BC1B52B4F806F5998D6D3E7BF1335E86E2",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "04D83D8A2D4E2B0F89EAB52DFF866CE85E7FDAFB648B9792C5C19D3C6CDF2A9A",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F0735DA3BB547897C00220F4A30F8B5D70DC177ED01049B92DD0DEECDC684524",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "B38DCF225EA773F7E1E940760EF89FC0A4B710DA70FCF759988E1A28279BF6B2",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "3F098EB5D1A270E63BBE9DE72D5745435DAC2172539FB3207E4D13081072227A",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "34957AB7A0630199A8B8B69294DEDE4D816DCE838DF2A754469BBF505164CD70",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "5D6E6A1238A3D921E4A6873013BE7C16AB3B899A1E7871F94BE9D5AE21DBD508",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "277053622CC9B117CE5952B64CDB7CA496DA3BBAE8B1E24F928426916A87879D",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "8658A521487FCBB081B20CA24F1B9EA437A2B19BF11C14E8F2200DE7236F4073",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        }
+      ],
+      "ListItems": 0,
+      "ListGroups": 0,
+      "EmbeddedImagesNotExtracted": 0,
+      "Scenes": 6,
+      "PromptBlocks": 0,
+      "IndependentParserCheck": "PASS",
+      "MarkdownRoundtrip": "PASS"
+    },
+    {
+      "Title": "15段开场动画提示词",
+      "State": "DRAFT",
+      "SourcePath": "C:\\Users\\MaNin\\OneDrive\\OneDrive - Personal\\学术文件夹\\游戏设计\\融合项目游戏设计\\小小世界（暂定）.scriv\\Files\\Data\\F971FC6C-14E0-40F6-AF67-E3DADC866D13\\content.rtf",
+      "UUID": "F971FC6C-14E0-40F6-AF67-E3DADC866D13",
+      "SourceSHA256": "60F6CFA5D4929CED936E54EEF62486947B1C5A8616932A3D9A28FCB094319913",
+      "ImportedAt": "2026-11-11T12:50:29+01:00",
+      "Output": "02_Episodes/E01_Waste_Sorting/Prompts/E01_Opening_Animation_Prompts_DRAFT.md",
+      "OutputSHA256": "640505D1A3E7A6E5153832C54CF5AC21DC29A4C4F54F1F38DDFAA993BA797C89",
+      "BodySHA256": "3361F05DB0F6AF237724DCEF65C4E4D4266429FB3AA412069B6D9896ADF67137",
+      "ParagraphCount": 33,
+      "Paragraphs": [
+        {
+          "TextSHA256": "7E5D4B5D4BBFDAAC4A89C405B4C0385C4096D5D7796EB0A5BDB7E6702C9DE018",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "3AB3FB4781AE78074AAD2A946F0D4A68D15E36D0CBFAD7972E311E8B2D5D8CE7",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "2DE812C2EA41FAAD0D4CA182C9BE229813991A742D7DD42F7BCB6DB384FCE4CA",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "A8B3B8A338C31FA5A8AB657D7B9B869ED042686EA9B81C5AAD8AC39E1A57CE03",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "D023936CDDABF63778FBCAADD1F5CF1AEC1DD062309339318C36830C9F2CEF32",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E89419290FC1BF76CAA4AF3C956FF6C0CDC5FB55CAA95FADC36BC75C33B24795",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "C30F3F0F9472C98FDB9E5A7A414931AEDA65979AB3AA04465726AD65CFE28F5C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "A0F9DA702881E04F37038C13953C86025C071C62F6EDBBFF0AEDADD85F743579",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "0013227304E37606D83DABF41C36FF3CEE25FACAAF5BA3FF971B6E71C525DCC4",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "8397EC36531537A4D73C22C90958214F58BCA10AAA560EE70F3E7462A686B729",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "08A2B80DD3C47C931A5E90E2324FDF1B15CC79F4ADF563A4B1C7B808F46E20BE",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E31C45C8BD3FACB3358F545FC93D954A0577F4A1383A2E0A261A87565CEFC2FB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "F96A703E3839F4EAA62D0AB303ABB7482085A961B9BC2FDF8FF9E18B075EBE48",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "7B4057CE03D0A855BB9ABEE899CF01127B950B01820A4B990A8DA7362195913C",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "BE0EA1D94527E2FAA09A37EB961EC398B3C837F752A9601E24B88408FF599882",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "AFE26DAACA22A44116ED089D241EEA2EB0E21BD1D6E237D073B8E1B1AED59EC4",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "59BCF940D78CEBD1AA0622FA4E68AA16A95E77E3B9EA0C09EC911CFFACD85152",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        }
+      ],
+      "ListItems": 0,
+      "ListGroups": 0,
+      "EmbeddedImagesNotExtracted": 0,
+      "Scenes": 0,
+      "PromptBlocks": 15,
+      "IndependentParserCheck": "PASS",
+      "MarkdownRoundtrip": "PASS"
+    },
+    {
+      "Title": "教育 App 设计摘要",
+      "State": "DRAFT",
+      "SourcePath": "C:\\Users\\MaNin\\OneDrive\\OneDrive - Personal\\学术文件夹\\游戏设计\\融合项目游戏设计\\小小世界（暂定）.scriv\\Files\\Data\\B540537A-F659-47CD-8713-662BB52E8D70\\content.rtf",
+      "UUID": "B540537A-F659-47CD-8713-662BB52E8D70",
+      "SourceSHA256": "112BFCE6653F17BBD43880B14E54059F24C4EBAB2B1E4B4D2B17376AC032F1C8",
+      "ImportedAt": "2026-11-11T12:50:29+01:00",
+      "Output": "06_Collaboration/Tasks/Education_App_Concept_DRAFT.md",
+      "OutputSHA256": "5C30198B41276F50CE4E202C179BE94924DB6CCE207101BAD6F0AD59212DED4E",
+      "BodySHA256": "158790187284A16EFB0B537AB86E66895817FD645CDAC7449847317571164C68",
+      "ParagraphCount": 6,
+      "Paragraphs": [
+        {
+          "TextSHA256": "558B27A273C9769DF81842AE8988944174AACC845931B54CB52F5DFB6859F016",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "374A44AA6803A1B9609BE4A57F387C40C03F43F1450CC9E5E5CF84960B380E05",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "E77BB22D12D4F40CD3C96FE433004D3B7BDA16A03F5040FCB818AE7FF9868EBB",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "6AA89F92C3689FEEC43EE26820D7ED76BF04D70E660252509F993AA33CEA790C",
+          "Bullet": true,
+          "ListGroup": 1,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "C013A5A9D017E187AD31ABACDFFEA1BA6196629C5718A01ED708B28626395972",
+          "Bullet": true,
+          "ListGroup": 2,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "94F80A7A7804E7A61918CDAA214CB1184FDE63B7811A0D785F0B89EFBDD91DF7",
+          "Bullet": true,
+          "ListGroup": 2,
+          "SoftBreaks": 1
+        }
+      ],
+      "ListItems": 3,
+      "ListGroups": 2,
+      "EmbeddedImagesNotExtracted": 0,
+      "Scenes": 0,
+      "PromptBlocks": 0,
+      "IndependentParserCheck": "PASS",
+      "MarkdownRoundtrip": "PASS"
+    },
+    {
+      "Title": "第一版历史设定",
+      "State": "REFERENCE",
+      "SourcePath": "C:\\Users\\MaNin\\OneDrive\\OneDrive - Personal\\学术文件夹\\游戏设计\\融合项目游戏设计\\小小世界（暂定）.scriv\\Files\\Data\\DA6A7525-5FC0-44ED-B404-CDEBC7725FCA\\content.rtf",
+      "UUID": "DA6A7525-5FC0-44ED-B404-CDEBC7725FCA",
+      "SourceSHA256": "AE4B79ADAE608C0DF47EB91F21FD9114343BD3DDB6140C0BFCD56DDBABA4587E",
+      "ImportedAt": "2026-11-11T12:50:29+01:00",
+      "Output": "06_Collaboration/Decisions/Legacy_Season01_Outline_REFERENCE.md",
+      "OutputSHA256": "22137978D90BE43CEF4DD6C46495CAD28CCEFD1D34505FE1EF6005D1DFAAFA22",
+      "BodySHA256": "892FCD5B9BBE44C3E382B3EDD0D31A2FD72BF20FE23863277AA5C4F8D529279B",
+      "ParagraphCount": 7,
+      "Paragraphs": [
+        {
+          "TextSHA256": "04D8F6D8F2D1B5839E59BAB7E3D747DC64772BA766156B17560CED8D5855DBCD",
+          "Bullet": false,
+          "ListGroup": 0,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "9710131D1F025DC2121D2AC6BD2C0FF28D6B786DB61657BC7CA860AD0DCB8843",
+          "Bullet": true,
+          "ListGroup": 1,
+          "SoftBreaks": 2
+        },
+        {
+          "TextSHA256": "990420F17F9BCF844165CEC407E7999C001E935A1DA7AC2FB91411B5D59928C0",
+          "Bullet": true,
+          "ListGroup": 1,
+          "SoftBreaks": 0
+        },
+        {
+          "TextSHA256": "256AB509CA834F478DBB142D9CCEE69A31896D95006B6380DDD3890BBE24C328",
+          "Bullet": true,
+          "ListGroup": 1,
+          "SoftBreaks": 1
+        },
+        {
+          "TextSHA256": "E3F520CD7685D41C6D85DE6E3D8F53CD866AD54E6D63A7F038B4958BD843E91C",
+          "Bullet": true,
+          "ListGroup": 1,
+          "SoftBreaks": 2
+        },
+        {
+          "TextSHA256": "D70CDEDB7AB246C899C06E64396A018F993D4E76C9C267BFDCC30B67D6AB8443",
+          "Bullet": true,
+          "ListGroup": 1,
+          "SoftBreaks": 1
+        },
+        {
+          "TextSHA256": "4B8A9354EDFAC17B8EC622CAB71CEDAFE6B9F701521DAE7DD7BC539523A64509",
+          "Bullet": true,
+          "ListGroup": 1,
+          "SoftBreaks": 3
+        }
+      ],
+      "ListItems": 6,
+      "ListGroups": 1,
+      "EmbeddedImagesNotExtracted": 0,
+      "Scenes": 0,
+      "PromptBlocks": 0,
+      "IndependentParserCheck": "PASS",
+      "MarkdownRoundtrip": "PASS"
+    }
+  ],
+  "SourceUnchanged": true
+}

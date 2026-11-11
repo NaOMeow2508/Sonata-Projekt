@@ -1,0 +1,16 @@
+# Text files
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Binary assets
+*.png binary -text
+*.jpg binary -text
+*.jpeg binary -text
+*.pdf binary -text
+*.mp4 binary -text
+*.mp3 binary -text
+*.wav binary -text
